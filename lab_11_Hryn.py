@@ -32,3 +32,4 @@ for i in range(4):
         print(que.get())
     else:
         print("Queue empty")
+
